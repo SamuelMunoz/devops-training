@@ -1,6 +1,10 @@
 {
     "movie-list":[
         {"title": "The power of the Dog"},
-        {"title": "Project Adam"}
+        {"title": "Project Adam"},
+        {"title": "El dia de tu muerte"},
+        {"title": "The Batman (2022)"},
+        {"title": "Sonic the Hedgehog"},
+        {"title": "Dune (2021)"}
     ]
 }
